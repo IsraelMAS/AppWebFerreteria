@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Marcas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\Marcas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Content\\estilosLayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Content\\estilosLayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\Proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Categorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\Categorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\EditarMarca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\EditarMarca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\EditarCategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\EditarCategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\NuevaMarca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\NuevaMarca.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Negocio\\Servicios\\MarcaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Negocio\\Servicios\\MarcaService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Datos\\Procesos\\CategoriaDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datos\\Procesos\\CategoriaDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Controllers\\FerreteriaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Controllers\\FerreteriaController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\NuevaCategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\NuevaCategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\Productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Dominio\\Entidades\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Entidades\\Categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Datos\\Procesos\\UsuarioDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Datos\\Procesos\\UsuarioDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Login\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Negocio\\Servicios\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Negocio\\Servicios\\UsuarioService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Dominio\\Entidades\\Marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dominio\\Entidades\\Marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Bitacora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FerreteriaAppWeb\\Views\\Ferreteria\\Bitacora.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "estilosLayout.css",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Content\\estilosLayout.css",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Content\\estilosLayout.css",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Content\\estilosLayout.css",
+              "RelativeToolTip": "FerreteriaAppWeb\\Content\\estilosLayout.css",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAowNYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-11T17:17:06.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Index.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\Index.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Index.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T16:50:24.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proveedores.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Proveedores.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\Proveedores.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Proveedores.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\Proveedores.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T02:25:13.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categorias.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Categorias.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\Categorias.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Categorias.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\Categorias.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-10T01:32:26.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarMarca.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\EditarMarca.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\EditarMarca.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\EditarMarca.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\EditarMarca.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwHcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T01:42:52.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarCategoria.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\EditarCategoria.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\EditarCategoria.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\EditarCategoria.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\EditarCategoria.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T01:46:07.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NuevaMarca.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\NuevaMarca.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\NuevaMarca.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\NuevaMarca.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\NuevaMarca.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T01:42:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Marcas.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Marcas.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\Marcas.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Marcas.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\Marcas.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAowGgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T01:42:59.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Web.config",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Web.config",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Web.config",
+              "RelativeToolTip": "FerreteriaAppWeb\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-11T16:51:18.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarcaService.cs",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Negocio\\Servicios\\MarcaService.cs",
+              "RelativeDocumentMoniker": "Negocio\\Servicios\\MarcaService.cs",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Negocio\\Servicios\\MarcaService.cs",
+              "RelativeToolTip": "Negocio\\Servicios\\MarcaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T01:33:46.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaDAO.cs",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Datos\\Procesos\\CategoriaDAO.cs",
+              "RelativeDocumentMoniker": "Datos\\Procesos\\CategoriaDAO.cs",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Datos\\Procesos\\CategoriaDAO.cs",
+              "RelativeToolTip": "Datos\\Procesos\\CategoriaDAO.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowF8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T01:33:54.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FerreteriaController.cs",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Controllers\\FerreteriaController.cs",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Controllers\\FerreteriaController.cs",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Controllers\\FerreteriaController.cs",
+              "RelativeToolTip": "FerreteriaAppWeb\\Controllers\\FerreteriaController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T03:38:54.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NuevaCategoria.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\NuevaCategoria.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\NuevaCategoria.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\NuevaCategoria.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\NuevaCategoria.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T02:32:43.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Productos.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\Productos.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Productos.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\Productos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-11T02:25:13.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Dominio\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T02:25:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioDAO.cs",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Datos\\Procesos\\UsuarioDAO.cs",
+              "RelativeDocumentMoniker": "Datos\\Procesos\\UsuarioDAO.cs",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Datos\\Procesos\\UsuarioDAO.cs",
+              "RelativeToolTip": "Datos\\Procesos\\UsuarioDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T01:30:31.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T20:56:18.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Negocio\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Negocio\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Negocio\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "Negocio\\Servicios\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T01:40:29.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Dominio\\Entidades\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Marca.cs",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\Dominio\\Entidades\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T01:53:05.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bitacora.cshtml",
+              "DocumentMoniker": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Bitacora.cshtml",
+              "RelativeDocumentMoniker": "FerreteriaAppWeb\\Views\\Ferreteria\\Bitacora.cshtml",
+              "ToolTip": "C:\\PROGRAMACION - CICLOS\\PRUEBAS_TERMINAL_C#\\FerreteriaAppWeb\\AppWebFerreteria\\AppWebFerreteria\\FerreteriaAppWeb\\Views\\Ferreteria\\Bitacora.cshtml",
+              "RelativeToolTip": "FerreteriaAppWeb\\Views\\Ferreteria\\Bitacora.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-06T23:26:25.286Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

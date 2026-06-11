@@ -1,0 +1,113 @@
+﻿@model IEnumerable<Dominio.Entidades.Marca>
+
+@{
+    ViewBag.Title = "Marcas";
+}
+
+<h2>Marcas</h2>
+
+<hr />
+
+<div class="row mb-3">
+
+    <div class="col-md-4">
+
+        @Html.ActionLink(
+            "Nueva Marca",
+            "NuevaMarca",
+            null,
+            new { @class = "btn btn-success" })
+
+    </div>
+
+    <div class="col-md-4">
+
+        @using (Html.BeginForm("BuscarMarca", "Ferreteria", FormMethod.Get))
+        {
+            <div class="input-group">
+
+                <input type="text"
+                       name="texto"
+                       class="form-control"
+                       placeholder="Buscar marca..." />
+
+                <button type="submit"
+                        class="btn btn-primary">
+
+                    Buscar
+
+                </button>
+
+            </div>
+        }
+
+    </div>
+
+</div>
+
+<table class="table table-bordered table-hover">
+
+    <thead class="table-dark">
+
+        <tr>
+
+            <th>ID</th>
+            <th>Nombre de la Marca</th>
+            <th>Descripción</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.IdMarca</td>
+
+                <td>@item.NombreMarca</td>
+
+                <td>@item.Descripcion</td>
+
+                <td>
+
+                    @(item.Estado ? "Activo" : "Inactivo")
+
+                </td>
+
+                <td>
+
+                    <div class="d-flex gap-2">
+
+                        @Html.ActionLink(
+                            "Editar",
+                            "EditarMarca",
+                            new { id = item.IdMarca },
+                            new
+                            {
+                                @class = "btn btn-primary btn-sm"
+                            })
+
+                        @Html.ActionLink(
+                            "Eliminar",
+                            "EliminarMarca",
+                            new { id = item.IdMarca },
+                            new
+                            {
+                                @class = "btn btn-danger btn-sm",
+                                onclick = "return confirm('¿Desea eliminar la marca?')"
+                            })
+
+                    </div>
+
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

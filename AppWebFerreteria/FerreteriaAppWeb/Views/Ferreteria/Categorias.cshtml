@@ -1,0 +1,106 @@
+﻿@model IEnumerable<Dominio.Entidades.Categoria>
+
+@{
+    ViewBag.Title = "Categorías";
+}
+
+<h2>Categorias</h2>
+
+<hr />
+
+<div class="row mb-3">
+
+    <div class="col-md-4">
+
+        @Html.ActionLink(
+            "Nueva Categoria",
+            "NuevaCategoria",
+            null,
+            new { @class = "btn btn-success" })
+
+    </div>
+
+    <div class="col-md-4">
+
+        @using (Html.BeginForm("BuscarCategoria", "Ferreteria", FormMethod.Get))
+        {
+            <div class="input-group">
+
+                <input type="text"
+                       name="texto"
+                       class="form-control"
+                       placeholder="Buscar categoria..." />
+
+                <button type="submit" class="btn btn-primary">
+                    Buscar
+                </button>
+
+            </div>
+        }
+
+    </div>
+
+</div>
+
+<table class="table table-bordered table-hover">
+
+    <thead class="table-dark">
+
+        <tr>
+
+            <th>ID</th>
+            <th>Nombres de las Categorías</th>
+            <th>Descripcion</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>@item.IdCategoria</td>
+
+                <td>@item.NombreCategoria</td>
+
+                <td>@item.Descripcion</td>
+
+                <td>
+
+                    @(item.Estado ? "Activo" : "Inactivo")
+
+                </td>
+
+                <td>
+
+                    @Html.ActionLink(
+                        "Editar",
+                        "EditarCategoria",
+                        new { id = item.IdCategoria },
+                        new { @class = "btn btn-primary btn-sm" })
+
+                    @Html.Raw(" ")
+
+                    @Html.ActionLink(
+                        "Eliminar",
+                        "EliminarCategoria",
+                        new { id = item.IdCategoria },
+                        new
+                        {
+                            @class = "btn btn-danger btn-sm",
+                            onclick = "return confirm('¿Desea eliminar la categoria?')"
+                        })
+
+                </td>
+
+            </tr>
+        }
+
+    </tbody>
+
+</table>

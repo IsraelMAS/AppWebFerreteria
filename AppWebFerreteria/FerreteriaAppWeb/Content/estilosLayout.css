@@ -1,0 +1,215 @@
+﻿/* =========================================
+   ESTILOS GENERALES
+   ========================================= */
+body {
+    background: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+/* =========================================
+   SIDEBAR (MENÚ LATERAL)
+   ========================================= */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 260px; /* Ligeramente más ancho para que los textos respiren */
+    height: 100vh;
+    background: linear-gradient(180deg, #1f2937, #111827);
+    box-shadow: 4px 0 20px rgba(0,0,0,.2);
+    /* Aplicamos Flexbox para ordenar el contenido verticalmente */
+    display: flex;
+    flex-direction: column;
+    padding: 20px; /* Espaciado interno para que no choque con los bordes */
+
+    overflow-y: auto;
+    z-index: 1000;
+}
+
+    /* Título / Logo */
+    .sidebar h2.logo {
+        color: white;
+        font-weight: 700;
+        font-size: 1.5rem;
+        letter-spacing: 2px;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+
+    .sidebar hr {
+        border-color: rgba(255, 255, 255, 0.15);
+        margin: 20px 0;
+    }
+
+    /* Contenedor de enlaces */
+    .sidebar .nav {
+        flex-grow: 1; /* Esto obliga a la lista a ocupar todo el espacio libre, empujando el perfil de usuario hacia abajo */
+        padding-left: 0;
+    }
+
+    /* Enlaces (Las letras) */
+    .sidebar .nav-link {
+        color: #d1d5db !important; /* El !important evita que Bootstrap lo vuelva azul o negro */
+        padding: 12px 15px;
+        border-radius: 10px;
+        margin-bottom: 8px;
+        transition: all 0.3s ease;
+        text-decoration: none;
+        display: block; /* Asegura que el botón sea clickeable en todo el ancho */
+        font-weight: 500;
+    }
+
+        .sidebar .nav-link:hover {
+            background: #10b981; /* Verde esmeralda */
+            color: white !important;
+            transform: translateX(5px);
+            box-shadow: 0 4px 10px rgba(16, 185, 129, 0.3); /* Resplandor sutil */
+        }
+
+    /* Sección de Usuario (En la parte inferior) */
+    .sidebar .usuario {
+        text-align: center;
+        background: rgba(255, 255, 255, 0.05); /* Fondo semitransparente para resaltar la tarjeta */
+        padding: 15px;
+        border-radius: 12px;
+        margin-bottom: 15px;
+    }
+
+        .sidebar .usuario small {
+            color: #9ca3af;
+            font-size: 0.8rem;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .sidebar .usuario h6 {
+            color: white;
+            margin: 0;
+            font-weight: 600;
+            font-size: 1rem;
+        }
+
+    /* Botón de Cerrar Sesión */
+    .sidebar .btn-cerrar {
+        width: 100%;
+        text-align: center;
+        border-radius: 10px;
+        padding: 10px;
+        font-weight: 600;
+        transition: 0.3s;
+    }
+
+    /* Estilizar la barra de scroll del sidebar para que no desentone (Dark Mode) */
+    .sidebar::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    .sidebar::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    .sidebar::-webkit-scrollbar-thumb {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 10px;
+    }
+
+        .sidebar::-webkit-scrollbar-thumb:hover {
+            background: rgba(255, 255, 255, 0.4);
+        }
+
+/* =========================================
+   CONTENIDO PRINCIPAL Y COMPONENTES
+   ========================================= */
+.content {
+    margin-left: 260px; /* Debe coincidir EXACTAMENTE con el width del .sidebar */
+    padding: 30px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column; /* Para manejar el footer abajo */
+}
+
+/* Tarjetas (Cards) */
+.card {
+    border: none;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: 0 10px 25px rgba(0,0,0,.08);
+}
+
+.card-header {
+    border: none;
+}
+
+/* Inputs y Selects */
+.form-control,
+.form-select {
+    border-radius: 12px;
+    padding: 12px;
+}
+
+    .form-control:focus,
+    .form-select:focus {
+        box-shadow: 0 0 0 .2rem rgba(32,201,151,.25);
+    }
+
+/* Botones genéricos */
+.btn:not(.btn-cerrar) { /* Aplica a todos menos al de cerrar sesión del sidebar */
+    border-radius: 10px;
+    padding: 10px 25px;
+    font-weight: 600;
+    transition: .3s;
+}
+
+    .btn:not(.btn-cerrar):hover {
+        transform: translateY(-2px);
+    }
+
+/* Tablas */
+.table {
+    background:
+}
+
+
+
+.contenedor-tabla {
+    background: white;
+    padding: 30px;
+    border-radius: 18px;
+    box-shadow: 0 8px 25px rgba(0,0,0,.08);
+    margin: auto;
+    max-width: 1400px;
+}
+
+.contenedor-tabla h2{
+    margin-bottom:25px;
+    font-weight:700;
+    color:#1d3557;
+}
+
+.table{
+    background:white;
+    border-radius:15px;
+    overflow:hidden;
+}
+
+.table thead{
+    background:linear-gradient(90deg,#1f2937,#111827);
+    color:white;
+}
+
+.table th{
+    vertical-align:middle;
+    padding:18px;
+}
+
+.table td{
+    vertical-align:middle;
+    padding:20px 15px;
+}
+
+.table tbody tr:hover{
+    background:#f5f8ff;
+    transition:.3s;
+}
