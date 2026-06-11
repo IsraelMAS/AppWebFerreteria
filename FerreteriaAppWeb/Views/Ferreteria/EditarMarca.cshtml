@@ -1,0 +1,121 @@
+﻿@model Dominio.Entidades.Marca
+
+@{
+ViewBag.Title = "Editar Marca";
+}
+
+<div class="contenedor-formulario">
+
+<div class="card sombra-card">
+
+    <div class="card-header bg-primary text-white text-center">
+
+        <h3 class="mb-0">
+            Editar Marca
+        </h3>
+
+    </div>
+
+    <div class="card-body">
+
+        @using (Html.BeginForm())
+        {
+            @Html.HiddenFor(x => x.IdMarca)
+
+            <div class="mb-4">
+
+                <label class="form-label fw-bold">
+
+                    Nombre de la Marca
+
+                </label>
+
+                @Html.TextBoxFor(
+                    x => x.NombreMarca,
+                    new
+                    {
+                        @class = "form-control"
+                    })
+
+            </div>
+
+            <div class="mb-4">
+
+                <label class="form-label fw-bold">
+
+                    Descripción
+
+                </label>
+
+                @Html.TextAreaFor(
+                    x => x.Descripcion,
+                    new
+                    {
+                        @class = "form-control",
+                        rows = 3
+                    })
+
+            </div>
+
+            <div class="mb-4">
+
+                <label class="form-label fw-bold">
+
+                    Estado
+
+                </label>
+
+                @Html.DropDownListFor(
+                    x => x.Estado,
+                    new List<SelectListItem>
+                    {
+                        new SelectListItem
+                        {
+                            Text = "Activo",
+                            Value = "true"
+                        },
+
+                        new SelectListItem
+                        {
+                            Text = "Inactivo",
+                            Value = "false"
+                        }
+                    },
+
+                    "-- Seleccione Estado --",
+
+                    new
+                    {
+                        @class = "form-select"
+                    })
+
+            </div>
+
+            <div class="text-center">
+
+                <button type="submit"
+                        class="btn btn-primary">
+
+                    Actualizar
+
+                </button>
+
+                @Html.Raw(" ")
+
+                @Html.ActionLink(
+                    "Volver",
+                    "Marcas",
+                    null,
+                    new
+                    {
+                        @class = "btn btn-secondary"
+                    })
+
+            </div>
+
+        }
+
+    </div>
+
+</div>
+</div>

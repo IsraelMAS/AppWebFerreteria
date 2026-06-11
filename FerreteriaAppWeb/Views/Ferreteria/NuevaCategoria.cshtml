@@ -1,0 +1,140 @@
+﻿@model Dominio.Entidades.Categoria
+
+@{
+    ViewBag.Title = "Nueva Categoría";
+}
+
+<div class="row justify-content-center">
+
+    <div class="col-md-8">
+
+        <div class="card shadow-lg border-0">
+
+            <!-- Encabezado -->
+            <div class="card-header text-center text-white"
+                 style="background: linear-gradient(90deg,#198754,#20c997);">
+
+                <h3 class="mb-0">
+
+                    <i class="bi bi-folder-plus"></i>
+                    Nueva Categoría
+
+                </h3>
+
+            </div>
+
+            <div class="card-body p-4">
+
+                @using (Html.BeginForm())
+                {
+
+                    <!-- Nombre -->
+                    <div class="mb-4">
+
+                        <label class="form-label fw-bold text-primary">
+
+                            Nombre de la Categoría
+                            <span class="text-danger">*</span>
+
+                        </label>
+
+                        @Html.TextBoxFor(
+                            x => x.NombreCategoria,
+                            new
+                            {
+                                @class = "form-control",
+                                placeholder = "Ingrese el nombre de la categoría"
+                            })
+
+                    </div>
+
+
+                    <!-- Descripción -->
+                    <div class="mb-4">
+
+                        <label class="form-label fw-bold text-primary">
+
+                            Descripción
+                            <span class="text-danger">*</span>
+
+                        </label>
+
+                        @Html.TextAreaFor(
+                            x => x.Descripcion,
+                            new
+                            {
+                                @class = "form-control",
+                                rows = 4,
+                                placeholder = "Ingrese una descripción"
+                            })
+
+                    </div>
+
+
+                    <!-- Estado -->
+                    <div class="mb-4">
+
+                        <label class="form-label fw-bold text-primary">
+
+                            Estado
+
+                        </label>
+
+                        @Html.DropDownListFor(
+                            x => x.Estado,
+                            new List<SelectListItem>
+                            {
+                                new SelectListItem
+                                {
+                                    Text = "Activo",
+                                    Value = "true"
+                                },
+
+                                new SelectListItem
+                                {
+                                    Text = "Inactivo",
+                                    Value = "false"
+                                }
+                            },
+                            "-- Seleccione Estado --",
+                            new
+                            {
+                                @class = "form-select"
+                            })
+
+                    </div>
+
+
+                    <!-- Botones -->
+                    <div class="text-center mt-4">
+
+                        <button type="submit"
+                                class="btn btn-success px-4">
+
+                            <i class="bi bi-save"></i>
+                            Guardar
+
+                        </button>
+
+                        @Html.Raw("&nbsp;&nbsp;")
+
+                        @Html.ActionLink(
+                            "Volver",
+                            "Categorias",
+                            null,
+                            new
+                            {
+                                @class = "btn btn-secondary px-4"
+                            })
+
+                    </div>
+
+                }
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

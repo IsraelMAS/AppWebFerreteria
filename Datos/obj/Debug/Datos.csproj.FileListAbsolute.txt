@@ -1,0 +1,18 @@
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\bin\Debug\Datos.dll
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\bin\Debug\Datos.pdb
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\bin\Debug\Dominio.dll
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\bin\Debug\Dominio.pdb
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\obj\Debug\Datos.dll
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Datos\obj\Debug\Datos.pdb
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\bin\Debug\Datos.dll
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\bin\Debug\Datos.pdb
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\bin\Debug\Dominio.dll
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\bin\Debug\Dominio.pdb
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\obj\Debug\Datos.csproj.Up2Date
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\obj\Debug\Datos.dll
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Datos\obj\Debug\Datos.pdb

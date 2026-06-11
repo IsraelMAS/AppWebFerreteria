@@ -1,0 +1,22 @@
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\bin\Debug\Negocio.dll
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\bin\Debug\Negocio.pdb
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\bin\Debug\Dominio.dll
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\bin\Debug\Dominio.pdb
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\obj\Debug\Negocios.csproj.AssemblyReference.cache
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\obj\Debug\Negocios.csproj.Up2Date
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\obj\Debug\Negocio.dll
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\obj\Debug\Negocio.pdb
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\bin\Debug\Datos.dll
+C:\PROGRAMACION - CICLOS\PRUEBAS_TERMINAL_C#\FerreteriaAppWeb\AppWebFerreteria\Negocio\bin\Debug\Datos.pdb
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\bin\Debug\Negocio.dll
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\bin\Debug\Negocio.pdb
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\bin\Debug\Datos.dll
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\bin\Debug\Dominio.dll
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\bin\Debug\Datos.pdb
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\bin\Debug\Dominio.pdb
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\obj\Debug\Negocios.csproj.Up2Date
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\obj\Debug\Negocio.dll
+D:\Descargas\AppWebFerreteria\AppWebFerreteria\Negocio\obj\Debug\Negocio.pdb

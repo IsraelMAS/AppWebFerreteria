@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<body class="bg-light">
+
+    <div class="container mt-5">
+
+        <div class="row justify-content-center">
+
+            <div class="col-md-4">
+
+                <div class="card shadow">
+
+                    <div class="card-header text-center">
+                        <h3>Iniciar Sesión</h3>
+                    </div>
+
+                    <div class="card-body">
+
+                        @using (Html.BeginForm())
+                        {
+                            <div class="mb-3">
+
+                                <label>Usuario</label>
+
+                                <input type="text"
+                                       name="usuario"
+                                       class="form-control"
+                                       required />
+
+                            </div>
+
+                            <div class="mb-3">
+
+                                <label>Contraseña</label>
+
+                                <input type="password"
+                                       name="clave"
+                                       class="form-control"
+                                       required />
+
+                            </div>
+
+                            <button class="btn btn-primary w-100">
+                                Ingresar
+                            </button>
+
+                            <br />
+                            <br />
+
+                            <span class="text-danger">
+                                @ViewBag.Error
+                            </span>
+                        }
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+</html>

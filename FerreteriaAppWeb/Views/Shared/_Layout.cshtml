@@ -1,40 +1,180 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+
+    <title>@ViewBag.Title - Sistema Ferretería</title>
+
     @Styles.Render("~/Content/css")
+
+    <link href="~/Content/estilosLayout.css" rel="stylesheet" />
+
     @Scripts.Render("~/bundles/modernizr")
+
 </head>
+
 <body>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
-        <div class="container">
-            @Html.ActionLink("Nombre de la aplicación", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Alternar navegación" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
-                <ul class="navbar-nav flex-grow-1">
-                    <li>@Html.ActionLink("Inicio", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Acerca de", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Contacto", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-    <div class="container body-content">
-        @RenderBody()
+
+    <!-- SIDEBAR -->
+    <nav class="sidebar">
+
+        <h2 class="logo">
+
+            🔩 FERRETERÍA
+
+        </h2>
+
         <hr />
+
+        <ul class="nav flex-column">
+
+            <li>
+                @Html.ActionLink(
+                "Dashboard",
+                "Index",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Categorías",
+                "Categorias",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Marcas",
+                "Marcas",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Unidades",
+                "Unidades",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Productos",
+                "Productos",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Proveedores",
+                "Proveedores",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Entradas",
+                "Entradas",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Salidas",
+                "Salidas",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Kardex",
+                "Kardex",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+            <li>
+                @Html.ActionLink(
+                "Bitácora",
+                "Bitacora",
+                "Ferreteria",
+                null,
+                new { @class = "nav-link" })
+            </li>
+
+        </ul>
+
+        <hr />
+
+        <div class="usuario">
+
+            <small>
+
+                Bienvenido
+
+            </small>
+
+            <h6>
+
+                @(Session["nombre"] != null ? Session["nombre"].ToString() : "")
+
+            </h6>
+
+        </div>
+
+
+        @Html.ActionLink(
+        "Cerrar Sesión",
+        "CerrarSesion",
+        "Login",
+        null,
+        new
+        {
+            @class = "btn btn-outline-danger btn-cerrar"
+        })
+
+    </nav>
+
+
+    <!-- CONTENIDO -->
+
+    <div class="content">
+
+        @RenderBody()
+
+        <hr />
+
         <footer>
-            <p>&copy; @DateTime.Now.Year - Mi aplicación ASP.NET</p>
+
+            © @DateTime.Now.Year - Sistema de Inventario Ferretería
+
         </footer>
+
     </div>
+
 
     @Scripts.Render("~/bundles/jquery")
     @Scripts.Render("~/bundles/bootstrap")
+
     @RenderSection("scripts", required: false)
+
 </body>
 </html>
